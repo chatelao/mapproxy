@@ -1,3 +1,5 @@
+.. image:: https://travis-ci.org/chatelao/mapproxy.svg?branch=master
+
 MapProxy is an open source proxy for geospatial data. It caches, accelerates and transforms data from existing map services and serves any desktop or web GIS client.
 
 .. image:: https://mapproxy.org/mapproxy.png
